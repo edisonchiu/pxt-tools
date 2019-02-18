@@ -23,16 +23,18 @@ namespace tools {
         basic.showNumber(length*width)
     }
 	
-	//% blockId="nothing" block="nothing"
-    //% blockGap=2 weight=1
-	//% shim=tools::nothing
-	export function nothing(): void {
-	}
-	
+	//% blockId="Temperature" block="|%p| Temperature "	
     //% shim=tools::Temperature
     export function Temperature(p: number): number {
         // Fake function for simulator
         return 0
     }
+	
+	//% blockId="nothing" block="nothing"
+    //% blockGap=2 weight=1
+	//% shim=tools::nothing
+	export function nothing(): void {
+	}
+
 
 }
