@@ -2,7 +2,7 @@
 
 namespace tools {
 	
-    int say_123() {
-        return(123)
+    int say_1234() {
+        return(1)
     }
 }
