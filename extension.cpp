@@ -11,4 +11,8 @@ namespace tools {
 	void nothing() {
 		
 	}
+	
+	int16_t Temperature(int p) {
+		return 30;
+	}
 }

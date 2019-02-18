@@ -3,6 +3,7 @@
     "tools.areaOfRectangle|block": "長方形面積 長 %length|寬 %width",
     "tools.ledOfRectangle|block": "LED顯示長方形面積 長 %length|寬 %width"
     "tools.ledOfRectangle1|block": "LED顯示長方形面積1 長 %length|寬 %width"
+	"tools.Temperature|block": "|%p|读取温度",
 	"tools.nothing|block": "nothing"
 	"tools.say123|block": "say123"
 }

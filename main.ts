@@ -29,6 +29,10 @@ namespace tools {
 	export function nothing(): void {
 	}
 	
-
+    //% shim=tools::Temperature
+    export function Temperature(p: number): number {
+        // Fake function for simulator
+        return 0
+    }
 
 }
