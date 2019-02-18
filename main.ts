@@ -23,10 +23,20 @@ namespace tools {
         basic.showNumber(length*width)
     }
 	
+	
 	//% blockId="say_123" block="say_123"
     //% blockGap=2 weight=1
 	//% shim=say_123
 	export function say_123(): number {
 	}
+
+	/*
+	//% blockId="pow" block="pow of base %base|index %index"
+    //% blockGap=2 weight=1
+	//% 
+	export function pow(base: number, index:number): number {
+		return 
+	}
+	*/
 
 }
