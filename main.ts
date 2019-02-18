@@ -25,6 +25,7 @@ namespace tools {
 	
 	//% blockId="say_123" block="say_123"
     //% blockGap=2 weight=1
+	//% shim=nothing
 	export function say_123(): number {
 		nothing()
 		return 0
