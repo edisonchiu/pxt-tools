@@ -25,7 +25,7 @@ namespace tools {
 	
 	//% blockId="Temperature" block="|%p| Temperature "	
     //% shim=tools::Temperature
-    export function Temperature(p: number): number {
+        return 0
     }
 	
 	//% blockId="nothing" block="nothing"
