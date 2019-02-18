@@ -17,6 +17,8 @@ namespace tools {
         basic.showNumber(length*width)
     }
 	
+	//% blockId="ledOfRectangle" block="show area of rectangle length %length|width %width"
+    //% blockGap=2 weight=1
     export function ledOfRectangle1(length: number, width:number): void {
         basic.showNumber(length*width)
     }
