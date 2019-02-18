@@ -17,6 +17,9 @@ namespace tools {
         basic.showNumber(length*width)
     }
 	
+	export function test1(void): number {
+        return (1);
+    }
 	export function say_123(): number {
 		return say_123();
 	}
