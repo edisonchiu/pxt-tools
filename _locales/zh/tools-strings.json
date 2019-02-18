@@ -2,6 +2,6 @@
     "tools|block": "工具",
     "tools.areaOfRectangle|block": "長方形面積 長 %length|寬 %width",
     "tools.ledOfRectangle|block": "LED顯示長方形面積 長 %length|寬 %width"
-	"tools.test1|block": "test1"
+    "tools.ledOfRectangle1|block": "LED顯示長方形面積1 長 %length|寬 %width"
 	"tools.say123|block": "say123"
 }
