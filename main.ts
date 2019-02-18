@@ -25,14 +25,9 @@ namespace tools {
 	
 	//% blockId="Temperature" block="|%p| Temperature "	
     //% shim=tools::Temperature
-        return 0
+    export function Temperature(p: number): number {
+        //return 0
     }
 	
-	//% blockId="nothing" block="nothing"
-    //% blockGap=2 weight=1
-	//% shim=tools::nothing
-	export function nothing(): void {
-	}
-
 
 }
