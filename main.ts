@@ -25,7 +25,7 @@ namespace tools {
 	
 	//% blockId="nothing" block="nothing"
     //% blockGap=2 weight=1
-	//% shim=tools::nothing()
+	//% shim=tools::nothing
 	export function nothing(): void {
 	}
 	
