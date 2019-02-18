@@ -15,4 +15,10 @@ namespace tools {
 	int16_t Temperature(int p) {
 		return 30;
 	}
+	
+	class test {
+		int16_t Temperature(int p) {
+			return 30;
+		}
+	}
 }
