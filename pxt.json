@@ -10,7 +10,6 @@
         "README.md",
         "main.ts",
 		"_locales/zh/tools-strings.json",
-		"shims.d.ts",
 		"extension.cpp"
     ],
     "public": true
