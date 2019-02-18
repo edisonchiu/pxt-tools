@@ -23,10 +23,10 @@ namespace tools {
         basic.showNumber(length*width)
     }
 	
-	//% blockId="nothong" block="nothong"
+	//% blockId="nothing" block="nothing"
     //% blockGap=2 weight=1
-	//% shim=nothong
-	export function nothong(): void {
+	//% shim=nothing
+	export function nothing(): void {
 	}
 	
 
