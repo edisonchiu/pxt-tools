@@ -12,7 +12,7 @@ namespace tools {
 		
 	}
 	
-	int16_t Temperature(int p) {
+	int16_t Temperature1(int p) {
 		return 30;
 	}
 }
