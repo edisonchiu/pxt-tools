@@ -4,7 +4,7 @@ using namespace pxt;
 
 namespace tools {
 	
-    int say_1234() {
+    int say_123() {
         return(1)
     }
 	
