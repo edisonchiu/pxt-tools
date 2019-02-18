@@ -17,12 +17,14 @@ namespace tools {
         basic.showNumber(length*width)
     }
 	
-	//% blockId="ledOfRectangle" block="show area of rectangle length %length|width %width"
+	//% blockId="ledOfRectangle1" block="show area of rectangle length %length|width %width"
     //% blockGap=2 weight=1
     export function ledOfRectangle1(length: number, width:number): void {
         basic.showNumber(length*width)
     }
 	
+	//% blockId="say_123" block="say_123"
+    //% blockGap=2 weight=1
 	export function say_123(): number {
 		return say_123();
 	}
