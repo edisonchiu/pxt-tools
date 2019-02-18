@@ -23,7 +23,7 @@ namespace tools {
         basic.showNumber(length*width)
     }
 	
-	let cTest: test;
+	let cTest: tools.test;
 	 
 	//% blockId="Temperature" block="|%p| Temperature "	
     //% shim=tools::Temperature
