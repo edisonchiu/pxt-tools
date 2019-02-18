@@ -16,4 +16,8 @@ namespace tools {
     export function ledOfRectangle(length: number, width:number): void {
         basic.showNumber(length*width)
     }
+	
+	export function say_123(): number {
+	}
+
 }
