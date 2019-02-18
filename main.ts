@@ -18,6 +18,7 @@ namespace tools {
     }
 	
 	export function say_123(): number {
+		return say_123();
 	}
 
 }
