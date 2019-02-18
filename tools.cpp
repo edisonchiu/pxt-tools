@@ -1,6 +1,6 @@
 #include "pxt.h"
 
-namespace test1 {
+namespace tools {
 	
     int say_123() {
         return(123)
