@@ -22,13 +22,11 @@ namespace tools {
     export function ledOfRectangle1(length: number, width:number): void {
         basic.showNumber(length*width)
     }
-	
-	let cTest: tools.test;
 	 
 	//% blockId="Temperature" block="|%p| Temperature "	
-    //% shim=tools::Temperature
+    //% advanced=true shim=tools::Temperature
     export function Temperature(p: number): number {
-        return cTest.Temperature(p)
+        return 0
     }
 	
 
