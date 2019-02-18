@@ -1,5 +1,7 @@
 #include "pxt.h"
 
+using namespace pxt;
+
 namespace tools {
 	
     int say_1234() {
